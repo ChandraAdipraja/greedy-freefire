@@ -1,0 +1,44 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache/tools
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# Flask / local files
+# =========================
+instance/
+*.db
+*.sqlite3
+.env
+
+# =========================
+# Generated charts
+# =========================
+static/output_charts/
+
+# =========================
+# Editor
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log

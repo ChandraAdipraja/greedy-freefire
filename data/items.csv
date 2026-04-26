@@ -1,0 +1,41 @@
+item_name,category,tier,base_value,weight,effective_value,ratio_v_w
+M1887,Weapon-AR,Diamond,90,3,180.0,60.0
+AK,Weapon-AR,Gold,80,3,128.0,42.67
+SCAR,Weapon-AR,Silver,70,3,91.0,30.33
+M4A1,Weapon-AR,Gold,78,3,124.8,41.6
+XM8,Weapon-AR,Silver,68,3,88.4,29.47
+Groza,Weapon-AR,Diamond,88,3,176.0,58.67
+AWM,Weapon-Sniper,Diamond,95,4,190.0,47.5
+Kar98k,Weapon-Sniper,Gold,85,4,136.0,34.0
+M82B,Weapon-Sniper,Diamond,92,4,184.0,46.0
+SVD,Weapon-Sniper,Silver,72,4,93.6,23.4
+MP40,Weapon-SMG,Gold,74,2,118.4,59.2
+UMP,Weapon-SMG,Silver,64,2,83.2,41.6
+Thompson,Weapon-SMG,Bronze,55,2,55.0,27.5
+Vector,Weapon-SMG,Gold,76,2,121.6,60.8
+M1014,Weapon-SG,Gold,82,3,131.2,43.73
+SPAS12,Weapon-SG,Silver,70,3,91.0,30.33
+MAG-7,Weapon-SG,Bronze,58,3,58.0,19.33
+Desert Eagle,Weapon-Pistol,Silver,60,1,78.0,78.0
+Glock,Weapon-Pistol,Bronze,45,1,45.0,45.0
+USP,Weapon-Pistol,Bronze,40,1,40.0,40.0
+Helmet Lv3,Armor-Helmet,Gold,80,1,128.0,128.0
+Helmet Lv2,Armor-Helmet,Silver,60,1,78.0,78.0
+Helmet Lv1,Armor-Helmet,Bronze,40,1,40.0,40.0
+Vest Lv3,Armor-Vest,Gold,85,2,136.0,68.0
+Vest Lv2,Armor-Vest,Silver,65,2,84.5,42.25
+Vest Lv1,Armor-Vest,Bronze,45,2,45.0,22.5
+Medkit,Medical,Gold,75,1,120.0,120.0
+Med Kit Small,Medical,Silver,55,1,71.5,71.5
+Mushroom,Medical,Bronze,35,1,35.0,35.0
+Bandage,Medical,Bronze,25,1,25.0,25.0
+Ammo AR (x30),Ammo,Bronze,30,1,30.0,30.0
+Ammo Sniper(x10),Ammo,Silver,40,1,52.0,52.0
+Ammo SMG (x30),Ammo,Bronze,28,1,28.0,28.0
+Ammo SG (x10),Ammo,Bronze,26,1,26.0,26.0
+Grenade,Utility,Silver,65,1,84.5,84.5
+Flashbang,Utility,Silver,60,1,78.0,78.0
+Gloo Wall,Utility,Gold,70,2,112.0,56.0
+Smoke Grenade,Utility,Bronze,45,1,45.0,45.0
+Backpack Lv3,Backpack,Gold,88,2,140.8,70.4
+Backpack Lv2,Backpack,Silver,65,2,84.5,42.25

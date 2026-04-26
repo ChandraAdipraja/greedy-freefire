@@ -1,0 +1,4 @@
+scenario_name,description,bag_capacity,item_indices
+Skenario A — Hot Zone,"Drop di area ramai, banyak item tier tinggi tersebar",12,0;1;6;9;20;23;26;30;34;36;38
+Skenario B — Safe Zone,"Drop di area aman, item campuran berbagai tier",10,2;3;11;14;21;24;27;29;31;33;35;37;39
+Skenario C — Early Game,"Awal game terbatas, item kebanyakan tier Bronze",8,4;12;16;18;19;22;25;28;29;30;32;33
